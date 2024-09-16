@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+<!-- Generated using sounddrill31/actions_generate_local_manifests -->
+
+    <!-- Remotes -->
+    <remote name="xlightningxstar" fetch="https://github.com/xlightningxstar" clone-depth="1" />
+
+    <!-- Removals -->
+
+    <!-- Repos -->
+    <!-- Device -->
+    <project path="device/xiaomi/rosy" name="android_device_xiaomi_rosy" remote="xlightningxstar" revision="15.0" />
+
+    <!-- Device - Common -->
+
+    <!-- Kernel -->
+    <project path="kernel/xiaomi/rosy" name="android_kernel_xiaomi_rosy" remote="xlightningxstar" revision="LA.UM.9.1" />
+
+    <!-- Vendor -->
+    <project path="vendor/xiaomi/rosy" name="vendor_xiaomi_rosy" remote="xlightningxstar" revision="15.0" />
+
+    <!-- Vendor - Common -->
+
+</manifest>
